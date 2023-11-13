@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# React
+Simple practice for using react with ruby on rails.
